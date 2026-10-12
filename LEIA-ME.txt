@@ -1,0 +1,17 @@
+SITE INSTITUCIONAL ADELPORT — VERSÃO MULTIPÁGINAS
+
+Páginas incluídas:
+- index.html (Início)
+- institucional.html (A instituição)
+- atuacao.html (Áreas de atuação)
+- projetos.html (Projetos e iniciativas)
+- territorio.html (Território e comunidades)
+- transparencia.html (Transparência)
+- contato.html (Contato)
+
+Arquivos compartilhados: style.css, site.js e pasta assets/.
+As páginas HTML e os arquivos compartilhados devem permanecer juntos. Ao publicar no Cloudflare Pages, envie o conteúdo desta pasta (incluindo a pasta assets) mantendo index.html na raiz.
+
+A logomarca horizontal original está em assets/logo-completa.png e o símbolo original em assets/simbolo-adelport.jpg. As imagens foram copiadas sem redesenho.
+
+IMPORTANTE: revise o conteúdo institucional antes de divulgar. A página Transparência é uma estrutura inicial e não afirma que documentos já estejam publicados. A página Projetos descreve áreas de atuação; confira nomes, valores, prazos e resultados antes de acrescentar fichas específicas.
